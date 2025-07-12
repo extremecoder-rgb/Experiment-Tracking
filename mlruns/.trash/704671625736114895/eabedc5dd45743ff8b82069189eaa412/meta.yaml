@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/704671625736114895/eabedc5dd45743ff8b82069189eaa412/artifacts
+deleted_time: 1752316289779
+end_time: 1752316223560
+entry_point_name: ''
+experiment_id: '704671625736114895'
+lifecycle_stage: deleted
+run_id: eabedc5dd45743ff8b82069189eaa412
+run_name: treasured-hound-818
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316216335
+status: 3
+tags: []
+user_id: user

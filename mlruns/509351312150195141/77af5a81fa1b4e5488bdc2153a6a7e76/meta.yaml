@@ -1,0 +1,14 @@
+artifact_uri: mlflow-artifacts:/509351312150195141/77af5a81fa1b4e5488bdc2153a6a7e76/artifacts
+end_time: 1752316371412
+entry_point_name: ''
+experiment_id: '509351312150195141'
+lifecycle_stage: active
+run_id: 77af5a81fa1b4e5488bdc2153a6a7e76
+run_name: spiffy-cub-337
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752316364293
+status: 3
+tags: []
+user_id: user
