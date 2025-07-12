@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Experiment-Tracking/mlruns/402473924799770892/ac7de94f194f46e3802fe170d641d831/artifacts
+end_time: 1752327775497
+entry_point_name: ''
+experiment_id: '402473924799770892'
+lifecycle_stage: active
+run_id: ac7de94f194f46e3802fe170d641d831
+run_name: orderly-lynx-727
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752327775324
+status: 3
+tags: []
+user_id: user

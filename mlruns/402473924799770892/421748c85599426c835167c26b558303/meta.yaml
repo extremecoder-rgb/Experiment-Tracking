@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Experiment-Tracking/mlruns/402473924799770892/421748c85599426c835167c26b558303/artifacts
+end_time: 1752327775146
+entry_point_name: ''
+experiment_id: '402473924799770892'
+lifecycle_stage: active
+run_id: 421748c85599426c835167c26b558303
+run_name: crawling-skink-676
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752327774980
+status: 3
+tags: []
+user_id: user

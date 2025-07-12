@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Experiment-Tracking/mlruns/402473924799770892/3c6fa1b0d9a6467591e128fa28a49ae6/artifacts
+end_time: 1752327774633
+entry_point_name: ''
+experiment_id: '402473924799770892'
+lifecycle_stage: active
+run_id: 3c6fa1b0d9a6467591e128fa28a49ae6
+run_name: luminous-auk-815
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752327774460
+status: 3
+tags: []
+user_id: user

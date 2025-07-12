@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Experiment-Tracking/mlruns/402473924799770892/cb8e935f872d4ba1a2edb917c14ab7d8/artifacts
+end_time: 1752327776096
+entry_point_name: ''
+experiment_id: '402473924799770892'
+lifecycle_stage: active
+run_id: cb8e935f872d4ba1a2edb917c14ab7d8
+run_name: nosy-doe-415
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752327775984
+status: 3
+tags: []
+user_id: user

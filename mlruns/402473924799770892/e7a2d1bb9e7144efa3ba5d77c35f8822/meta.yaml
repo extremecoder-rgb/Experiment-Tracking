@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Experiment-Tracking/mlruns/402473924799770892/e7a2d1bb9e7144efa3ba5d77c35f8822/artifacts
+end_time: 1752327774795
+entry_point_name: ''
+experiment_id: '402473924799770892'
+lifecycle_stage: active
+run_id: e7a2d1bb9e7144efa3ba5d77c35f8822
+run_name: orderly-worm-729
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752327774648
+status: 3
+tags: []
+user_id: user

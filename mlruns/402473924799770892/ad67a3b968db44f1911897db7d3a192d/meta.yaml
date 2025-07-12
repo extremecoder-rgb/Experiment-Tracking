@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Experiment-Tracking/mlruns/402473924799770892/ad67a3b968db44f1911897db7d3a192d/artifacts
+end_time: 1752327775974
+entry_point_name: ''
+experiment_id: '402473924799770892'
+lifecycle_stage: active
+run_id: ad67a3b968db44f1911897db7d3a192d
+run_name: capricious-ram-607
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752327775867
+status: 3
+tags: []
+user_id: user

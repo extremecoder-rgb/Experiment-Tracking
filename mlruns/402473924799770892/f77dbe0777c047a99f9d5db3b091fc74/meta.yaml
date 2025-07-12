@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Experiment-Tracking/mlruns/402473924799770892/f77dbe0777c047a99f9d5db3b091fc74/artifacts
+end_time: 1752327774967
+entry_point_name: ''
+experiment_id: '402473924799770892'
+lifecycle_stage: active
+run_id: f77dbe0777c047a99f9d5db3b091fc74
+run_name: salty-calf-952
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752327774811
+status: 3
+tags: []
+user_id: user

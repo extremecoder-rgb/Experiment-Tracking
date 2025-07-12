@@ -1,0 +1,14 @@
+artifact_uri: file:///C:/Experiment-Tracking/mlruns/402473924799770892/a6ecec0f7bdb4706a2c0df835790bb2b/artifacts
+end_time: 1752327776384
+entry_point_name: ''
+experiment_id: '402473924799770892'
+lifecycle_stage: active
+run_id: a6ecec0f7bdb4706a2c0df835790bb2b
+run_name: flawless-roo-226
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1752327776247
+status: 3
+tags: []
+user_id: user
